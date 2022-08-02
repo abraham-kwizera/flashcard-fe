@@ -1,0 +1,33 @@
+:root {
+    --color-light-blue: #36C5F0;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10% 0 10% 0;
+}
+
+.hero-message {
+    width: 40%;
+}
+
+.hero-message h1 {
+    font-size: 30px;
+}
+
+.hero-card {
+    width: 30%;
+}
+
+.card {
+    width: 80%;
+    padding: 10%;
+    margin: 10px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+}
